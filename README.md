@@ -1,4 +1,4 @@
-# Luminland.Skinpacth.Installer
+# Luminland.Skinpatch.Installer
 
 适用于Fabric端Minecraft-1.21.3游戏的游玩Luminland服务器时遇到皮肤问题的补丁自动安装器
 
